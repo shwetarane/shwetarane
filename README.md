@@ -4,11 +4,11 @@
 
 - :video_game: Ex- Electronic Arts Intern
 
-- :office:  Seeking Full-Time opportunities in the field of Development, DevOps and Cloud Engineering
+- :office:  Seeking Full-Time opportunities in the field of Software Development, DevOps and Cloud Engineering
 
 - :phone:  How to reach me: 
 
-  [Linkedin]: https://www.linkedin.com/in/raneshweta/
-  [website]: https://shwetarane.github.io/portfolio/
+  [Linkedin]: https://www.linkedin.com/in/raneshweta/	""LinkedIn""
+  [website]: https://shwetarane.github.io/portfolio/	" " Portfolio""
 
   
