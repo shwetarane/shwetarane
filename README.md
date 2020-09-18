@@ -8,7 +8,7 @@
 
 - :phone:  How to reach me: 
 
-  [Linkedin]: https://www.linkedin.com/in/raneshweta/	""LinkedIn""
-  [website]: https://shwetarane.github.io/portfolio/	" " Portfolio""
+  [Linkedin]: (https://www.linkedin.com/in/raneshweta)
+  [website]: (https://shwetarane.github.io/portfolio/)
 
   
