@@ -8,7 +8,10 @@
 
 - :phone:  How to reach me: 
 
-  [Linkedin]: (https://www.linkedin.com/in/raneshweta)
-  [website]: (https://shwetarane.github.io/portfolio/)
+  - :link: [LinkedIn](https://www.linkedin.com/in/raneshweta)
+  - :link: [Portfolio](https://shwetarane.github.io/portfolio/) 
+  - :e-mail: shvetacrane@gmail.com
+
+  []: 
 
   
