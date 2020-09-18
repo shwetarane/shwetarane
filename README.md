@@ -12,6 +12,5 @@
   - :link: [Portfolio](https://shwetarane.github.io/portfolio/) 
   - :e-mail: shvetacrane@gmail.com
 
-  []: 
 
   
