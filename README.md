@@ -13,5 +13,3 @@
   - :e-mail: shvetacrane@gmail.com
 
   []: 
-
-  
