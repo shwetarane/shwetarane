@@ -11,6 +11,8 @@
   - :link: [LinkedIn](https://www.linkedin.com/in/raneshweta)
   - :link: [Portfolio](https://shwetarane.github.io/portfolio/) 
   - :e-mail: shvetacrane@gmail.com
+  
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=shwetarane)
 
 
   
