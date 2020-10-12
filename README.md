@@ -4,7 +4,7 @@
 
 - :office: Former Systems Engineering Intern at EleectronicArts :video_game:
 
-- :office: Seeking Full-Time opportunities in the field of Software Development, DevOps and Cloud Engineering
+- :office: Seeking Full-Time opportunities in the field of Software Development, Quality Assurance, DevOps and Cloud Engineering
 
 - :phone:  How to reach me: 
 
